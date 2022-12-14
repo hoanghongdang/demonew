@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\forif\bin\Debug\net7.0\forif.exe
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\forif\bin\Debug\net7.0\forif.deps.json
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\forif\bin\Debug\net7.0\forif.runtimeconfig.json
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\forif\bin\Debug\net7.0\forif.dll
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\forif\bin\Debug\net7.0\forif.pdb
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\forif\obj\Debug\net7.0\forif.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\forif\obj\Debug\net7.0\forif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\forif\obj\Debug\net7.0\forif.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\forif\obj\Debug\net7.0\forif.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\forif\obj\Debug\net7.0\forif.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\forif\obj\Debug\net7.0\forif.dll
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\forif\obj\Debug\net7.0\refint\forif.dll
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\forif\obj\Debug\net7.0\forif.pdb
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\forif\obj\Debug\net7.0\forif.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\forif\obj\Debug\net7.0\ref\forif.dll

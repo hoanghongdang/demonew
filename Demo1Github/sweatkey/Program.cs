@@ -28,7 +28,7 @@ switch (pheptoan)
         Console.WriteLine("..............");
         break;
 }
-
+//switch espression => biểu thức switch
 Console.WriteLine(
     pheptoan switch
         {
