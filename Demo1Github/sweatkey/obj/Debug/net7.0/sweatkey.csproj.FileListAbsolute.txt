@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\sweatkey\bin\Debug\net7.0\sweatkey.exe
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\sweatkey\bin\Debug\net7.0\sweatkey.deps.json
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\sweatkey\bin\Debug\net7.0\sweatkey.runtimeconfig.json
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\sweatkey\bin\Debug\net7.0\sweatkey.dll
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\sweatkey\bin\Debug\net7.0\sweatkey.pdb
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\sweatkey\obj\Debug\net7.0\sweatkey.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\sweatkey\obj\Debug\net7.0\sweatkey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\sweatkey\obj\Debug\net7.0\sweatkey.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\sweatkey\obj\Debug\net7.0\sweatkey.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\sweatkey\obj\Debug\net7.0\sweatkey.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\sweatkey\obj\Debug\net7.0\sweatkey.dll
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\sweatkey\obj\Debug\net7.0\refint\sweatkey.dll
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\sweatkey\obj\Debug\net7.0\sweatkey.pdb
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\sweatkey\obj\Debug\net7.0\sweatkey.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\sweatkey\obj\Debug\net7.0\ref\sweatkey.dll
