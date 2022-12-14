@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\Demo1Github\bin\Debug\net7.0\Demo1Github.exe
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\Demo1Github\bin\Debug\net7.0\Demo1Github.deps.json
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\Demo1Github\bin\Debug\net7.0\Demo1Github.runtimeconfig.json
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\Demo1Github\bin\Debug\net7.0\Demo1Github.dll
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\Demo1Github\bin\Debug\net7.0\Demo1Github.pdb
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\Demo1Github\obj\Debug\net7.0\Demo1Github.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\Demo1Github\obj\Debug\net7.0\Demo1Github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\Demo1Github\obj\Debug\net7.0\Demo1Github.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\Demo1Github\obj\Debug\net7.0\Demo1Github.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\Demo1Github\obj\Debug\net7.0\Demo1Github.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\Demo1Github\obj\Debug\net7.0\Demo1Github.dll
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\Demo1Github\obj\Debug\net7.0\refint\Demo1Github.dll
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\Demo1Github\obj\Debug\net7.0\Demo1Github.pdb
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\Demo1Github\obj\Debug\net7.0\Demo1Github.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\Demo1Github\obj\Debug\net7.0\ref\Demo1Github.dll
