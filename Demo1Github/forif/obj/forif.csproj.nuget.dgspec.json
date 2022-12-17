@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\source\\repos\\demonew\\Demo1Github\\forif\\forif.csproj": {}
+    "C:\\Users\\ADMIN\\Source\\Repos\\demonew\\Demo1Github\\forif\\forif.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\source\\repos\\demonew\\Demo1Github\\forif\\forif.csproj": {
+    "C:\\Users\\ADMIN\\Source\\Repos\\demonew\\Demo1Github\\forif\\forif.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\demonew\\Demo1Github\\forif\\forif.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Source\\Repos\\demonew\\Demo1Github\\forif\\forif.csproj",
         "projectName": "forif",
-        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\demonew\\Demo1Github\\forif\\forif.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Source\\Repos\\demonew\\Demo1Github\\forif\\forif.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ADMIN\\source\\repos\\demonew\\Demo1Github\\forif\\obj\\",
         "projectStyle": "PackageReference",
