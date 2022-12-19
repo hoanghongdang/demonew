@@ -9,7 +9,7 @@ internal class Human
 {
     //fields các field phải là private
     private string fullname;
-    //thuộc tính address
+    //thuộc tính address(muốn set k get thì thêm private vào get)
     public string Address { get; set; }
     public int Age { get; set; }
 

@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\OopPolymorphismOverited\bin\Debug\net7.0\OopPolymorphismOverited.exe
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\OopPolymorphismOverited\bin\Debug\net7.0\OopPolymorphismOverited.deps.json
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\OopPolymorphismOverited\bin\Debug\net7.0\OopPolymorphismOverited.runtimeconfig.json
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\OopPolymorphismOverited\bin\Debug\net7.0\OopPolymorphismOverited.dll
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\OopPolymorphismOverited\bin\Debug\net7.0\OopPolymorphismOverited.pdb
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\OopPolymorphismOverited\obj\Debug\net7.0\OopPolymorphismOverited.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\OopPolymorphismOverited\obj\Debug\net7.0\OopPolymorphismOverited.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\OopPolymorphismOverited\obj\Debug\net7.0\OopPolymorphismOverited.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\OopPolymorphismOverited\obj\Debug\net7.0\OopPolymorphismOverited.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\OopPolymorphismOverited\obj\Debug\net7.0\OopPolymorphismOverited.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\OopPolymorphismOverited\obj\Debug\net7.0\OopPolymorphismOverited.dll
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\OopPolymorphismOverited\obj\Debug\net7.0\refint\OopPolymorphismOverited.dll
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\OopPolymorphismOverited\obj\Debug\net7.0\OopPolymorphismOverited.pdb
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\OopPolymorphismOverited\obj\Debug\net7.0\OopPolymorphismOverited.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\demonew\Demo1Github\OopPolymorphismOverited\obj\Debug\net7.0\ref\OopPolymorphismOverited.dll
