@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Source\\Repos\\demonew\\Demo1Github\\PartiaClass\\PartiaClass.csproj": {}
+    "C:\\Users\\ADMIN\\source\\repos\\demonew\\Demo1Github\\PartiaClass\\PartiaClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Source\\Repos\\demonew\\Demo1Github\\PartiaClass\\PartiaClass.csproj": {
+    "C:\\Users\\ADMIN\\source\\repos\\demonew\\Demo1Github\\PartiaClass\\PartiaClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Source\\Repos\\demonew\\Demo1Github\\PartiaClass\\PartiaClass.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\demonew\\Demo1Github\\PartiaClass\\PartiaClass.csproj",
         "projectName": "PartiaClass",
-        "projectPath": "C:\\Users\\ADMIN\\Source\\Repos\\demonew\\Demo1Github\\PartiaClass\\PartiaClass.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\demonew\\Demo1Github\\PartiaClass\\PartiaClass.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ADMIN\\Source\\Repos\\demonew\\Demo1Github\\PartiaClass\\obj\\",
         "projectStyle": "PackageReference",

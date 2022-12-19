@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Source\\Repos\\demonew\\Demo1Github\\Demo1Github\\Demo1Github.csproj": {}
+    "C:\\Users\\ADMIN\\source\\repos\\demonew\\Demo1Github\\Demo1Github\\Demo1Github.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Source\\Repos\\demonew\\Demo1Github\\Demo1Github\\Demo1Github.csproj": {
+    "C:\\Users\\ADMIN\\source\\repos\\demonew\\Demo1Github\\Demo1Github\\Demo1Github.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Source\\Repos\\demonew\\Demo1Github\\Demo1Github\\Demo1Github.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\demonew\\Demo1Github\\Demo1Github\\Demo1Github.csproj",
         "projectName": "Demo1Github",
-        "projectPath": "C:\\Users\\ADMIN\\Source\\Repos\\demonew\\Demo1Github\\Demo1Github\\Demo1Github.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\demonew\\Demo1Github\\Demo1Github\\Demo1Github.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ADMIN\\source\\repos\\demonew\\Demo1Github\\Demo1Github\\obj\\",
         "projectStyle": "PackageReference",
