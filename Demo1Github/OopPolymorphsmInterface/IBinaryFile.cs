@@ -5,6 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace OopPolymorphsmInterface;
-internal interface Interface1
+internal interface IBinaryFile
 {
+    //có kiểu trả về và tên phương thức nhưng k có bổ từ 
+    void WriteBinaryFile();
+    void ReadFile();
+
+    //phương thức mặc định của interface
+    void ShowInfo() => Console.WriteLine("this is binary file");
 }

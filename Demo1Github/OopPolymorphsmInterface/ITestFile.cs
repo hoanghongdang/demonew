@@ -7,4 +7,6 @@ using System.Threading.Tasks;
 namespace OopPolymorphsmInterface;
 internal interface ITestFile
 {
+    void WriteTestFile();
+    void ReadFile();
 }
